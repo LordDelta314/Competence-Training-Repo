@@ -5,7 +5,7 @@ public class TrainingMain {
 		System.out.print("Hello WORLD!");
 
 		// New print statement added in AddNewText branch
-		System.out.println("Hey! The guy in MergeBranch1 made a typo here!");
+		System.out.println(" Nice program you have here!");
 	}
 
 }
