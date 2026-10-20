@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+/Users/prestonkirby/CSE 460/CSE 485/.metadata/.plugins/org.eclipse.jdt.core
-1416564070.index
-3375032390.index
-1865797976.index
